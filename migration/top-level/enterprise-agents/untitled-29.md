@@ -262,7 +262,6 @@ te-agent-staging.sls
 **te-agent-production.sls:**
 
 ```text
-{% import_yaml "thousandeyes/te-agent-production.conf.yml" as config %}
 
 ...<excluded>...
 ...<excluded>...
