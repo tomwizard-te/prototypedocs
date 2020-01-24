@@ -281,7 +281,6 @@ proxy_port          : '8080'
 **te-agent-staging.sls:**
 
 ```text
-{% import_yaml "thousandeyes/te-agent-staging.conf.yml" as config %}
 
 ...<excluded>...
 ...<excluded>...
